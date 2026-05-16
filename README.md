@@ -40,19 +40,22 @@
 
 ---
 
+<h2 align="left">My Contributions</h2>
+
+<h2 align="left">My Contributions</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saieesh-code/saieesh-code/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saieesh-code/saieesh-code/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saieesh-code/saieesh-code/pacman-output/pacman-contribution-graph.svg" />
+</picture>
+
+---
 <h2 align="left">Most Used Languages</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saieesh-code&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
-
----
-
-<h2 align="left">My Contributions</h2>
-
-<h2 align="left">My Contributions</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saieesh-code&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 ---
 
